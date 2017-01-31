@@ -1,6 +1,6 @@
 {
     "dev": {
         "app_function": "main.app", 
-        "s3_bucket": "zappa-eje6xu87d"
+        "s3_bucket": "zappa-jxc59ygm3"
     }
 }
