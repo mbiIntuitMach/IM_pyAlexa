@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "MixFood",
+      "slots": [
+        {
+          "name": "FirstFood",
+          "type": "LIST_OF_MAIN_FOOD"
+        },
+        {
+          "name": "CookType",
+          "type": "LIST_OF_MAIN_COOKING_STYLES"
+        },
+        {
+          "name": "CookType",
+          "type": "LIST_OF_VEGGIES"
+        },
+        {
+          "name": "CookType",
+          "type": "LIST_OF_SPICES"
+        }
+      ]
+    },
+    {
+      "intent": "GetRecipe"
+    }
+  ]
+}

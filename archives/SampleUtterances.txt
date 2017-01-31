@@ -1,0 +1,20 @@
+SAMPLE UTTERANCES
+MixFoodIntent		Mixfood
+FirstFoodIntent	 	I have {FirstFood}
+CookTypeIntent	 	I want {CookType} style cooking
+VeggieIntent 		I have {Veggie}
+SpicesIntent	 	I have {Spices}
+PullRecipeIntent	Get me the recipe {Recipe}
+
+
+
+
+MixFood				Mixfood
+FirstFood		 	I have {FirstFood}
+CookType	 		I want {CookType} style cooking
+CookType	 		I want to eat {CookType} style cooking
+CookType	 		I want {CookType}
+CookType	 		I'm in the mood for {CookType}
+CookType	 		{CookType}
+GetRecipe			Send me the {recipe}
+ 

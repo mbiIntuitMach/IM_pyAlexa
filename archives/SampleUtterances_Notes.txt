@@ -1,0 +1,21 @@
+
+
+INPUTS
+MixCookDLIntent get {TypeCooking}
+MixCookDLIntent let's cook {TypeCooking}
+MixCookDLIntent 
+MixCookDLIntent 
+MixCookDLIntent 
+MixCookDLIntent 
+MixCookDLIntent 
+
+
+TypeCooking {French| Italian| American| Chinese | Japanese}
+
+MeatIntent {pork | chicken | beef | lamb }
+FishIntent {salmon | flounder| haddock| tilapia }
+
+VeggieIntent {carrots | potatoes | bell peppers | onions }
+SpicesIntent {sugar | pepper|salt| curry}
+HerbsIntent {chives | bay leaves| oregano}
+ 
